@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1090886816843",
+    "firebase_url": "https://gettingstartedfb-df28e.firebaseio.com",
+    "project_id": "gettingstartedfb-df28e",
+    "storage_bucket": "gettingstartedfb-df28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090886816843:android:6d3ee6e6a5e9dd15",
+        "android_client_info": {
+          "package_name": "com.example.dog.gettingstartedfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090886816843-88i9j7vnkro24s60h1b3uk47qf3t46ka.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1090886816843-88i9j7vnkro24s60h1b3uk47qf3t46ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkoZmtljHcqMLU5B3tFR24tJaU1c0GrWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
